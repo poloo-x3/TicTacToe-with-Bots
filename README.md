@@ -9,5 +9,7 @@ To exit the program, simply write "exit".
 ## About
 
 Easy bot - Picks a random space
+
 Medium bot - Is able to predict one move in the future, otherwise defaults to random
+
 Hard bot - Uses the minimax algorithm. Impossible to win against.
